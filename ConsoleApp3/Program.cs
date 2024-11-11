@@ -87,7 +87,7 @@ namespace ConsoleApp3
             string name = Console.ReadLine();
             Console.Write("Введите возраст: ");
             int age = int.Parse(Console.ReadLine());
-            Console.WriteLine($"{name}, ты родился в {2024 - age} году.");
+            Console.WriteLine($"{name}, ты родился в {2009 - age} году.");
             Console.ReadLine();*/
         }
     }
